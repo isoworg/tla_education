@@ -11,7 +11,7 @@ Event starts at 18:30
 
 18:30 - Intro from **Will Bentinck**, Chair of TLA Education Group  
 18:35 - Scene-setting by **Jess Tyrell**, Centre for London: "We need a digital skills strategy for London"  
-18:45 - Industry overview by **Ian Fordham**, EdTeck UK  
+18:45 - Industry overview by **Ian Fordham**, EdTech UK  
 18:55 - *Tech Education in the Public Sector*  
 - 18:55 **Emma Roberston**, Digital Awareness UK  
 - 19:00 **Lawrence Basco**, National Apprenticeship Service  
