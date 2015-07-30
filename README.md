@@ -17,7 +17,7 @@ Event starts at 18:30
 - 19:00 **Lawrence Basco**, National Apprenticeship Service  
 - 19:05 Gazelle Colleges (panel): Hackney, C&I, BDC, *others*  
 - 19:15 Career Colleges (talk): BDC?  
-- 19:20 City University & UCL?  
+- 19:20 **Parveen Dhanda** City University & UCL?  
 - 19:30 **Tom Fogden**, National College of Digital Skills  
 
 19:35 to 19:40 - Short sharp shock
