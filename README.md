@@ -8,7 +8,9 @@
 20:00 Workshop starts  
 20:20 Closing remarks  
 20:30 Networking  
----
+
+-----
+
 #### Agenda in Detail
 18:30 - Intro from Will Bentinck, Chair of TLA Education Group  
 18:35 - Scene-setting by Jess Tyrell, Centre for London: "We need a digital skills strategy for London"  
